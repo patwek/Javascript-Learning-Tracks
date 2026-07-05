@@ -1,7 +1,11 @@
-const num1 = 20;
-const num2 = 10;
+let food = "Adobo";
+let movie = "Anime";
+let color = "Black";
+let master = "Programming";
+let ase = "next";
 
-console.log(num1 + num2);
-console.log(num1 - num2);
-console.log(num1 * num2);
-console.log(num1 / num2);
+console.log(`My favorite food ${food}.`);
+console.log(`My favorite movie is ${movie}.`);
+console.log(`My favorite color is ${color}.`);
+console.log(`I want to master ${master}.`);
+console.log(`I hope to become a software engineer in ${ase} years.`)
