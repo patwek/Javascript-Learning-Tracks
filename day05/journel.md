@@ -1,0 +1,1 @@
+use switch if you want to get the exact value. use if if you use it as a range .
